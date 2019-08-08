@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:background="#FFBB00"
+android:layout_height="match_parent"
+tools:context="com.example.vibhor.fragmentdemoapp4.FragmentA">
+
+<!-- TODO: Update blank fragment layout -->
+<Button  android:layout_margin="10dp"
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Click me"
+    android:id="@+id/button1"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentLeft="true"/>
+</RelativeLayout>
